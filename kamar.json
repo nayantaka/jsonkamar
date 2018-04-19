@@ -1,0 +1,43 @@
+{
+	"kamar":[
+		{
+			"id_kamar":"001",
+			"nama_kamar":"Kelas 1",
+			"jumlah_pasien":"1",
+			"fasilitas":[
+				{
+					"tv":"LED",
+					"ukuran":"32 INCHI",
+					"AC":"ada",
+					"kamar_mandi":"dalam"
+				}
+			]
+		},
+		{
+			"id_kamar":"002",
+			"nama_kamar":"Kelas 2",
+			"jumlah_pasien":"2",
+			"fasilitas":[
+				{
+					"tv":"LED",
+					"ukuran":"24 INCHI",
+					"AC":"ada",
+					"kamar_mandi":"dalam"
+				}
+			]
+		},
+		{
+			"id_kamar":"003",
+			"nama_kamar":"Kelas 3",
+			"jumlah_pasien":"4",
+			"fasilitas":[
+				{
+					"tv":"Tabung",
+					"ukuran":"19 INCHI",
+					"AC":"tidak ada",
+					"kamar_mandi":"luar"
+				}
+			]
+		}
+	]
+}
